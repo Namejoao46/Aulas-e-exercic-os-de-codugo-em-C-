@@ -1,0 +1,14 @@
+C:\Users\joaop\Documents\Linguagens de programação\C#\Codigos e exercicios de aula de C#\Codigos e exercicios de aula de C#\bin\Debug\net8.0\Codigos e exercicios de aula de C#.exe
+C:\Users\joaop\Documents\Linguagens de programação\C#\Codigos e exercicios de aula de C#\Codigos e exercicios de aula de C#\bin\Debug\net8.0\Codigos e exercicios de aula de C#.deps.json
+C:\Users\joaop\Documents\Linguagens de programação\C#\Codigos e exercicios de aula de C#\Codigos e exercicios de aula de C#\bin\Debug\net8.0\Codigos e exercicios de aula de C#.runtimeconfig.json
+C:\Users\joaop\Documents\Linguagens de programação\C#\Codigos e exercicios de aula de C#\Codigos e exercicios de aula de C#\bin\Debug\net8.0\Codigos e exercicios de aula de C#.dll
+C:\Users\joaop\Documents\Linguagens de programação\C#\Codigos e exercicios de aula de C#\Codigos e exercicios de aula de C#\bin\Debug\net8.0\Codigos e exercicios de aula de C#.pdb
+C:\Users\joaop\Documents\Linguagens de programação\C#\Codigos e exercicios de aula de C#\Codigos e exercicios de aula de C#\obj\Debug\net8.0\Codigos e exercicios de aula de C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\Documents\Linguagens de programação\C#\Codigos e exercicios de aula de C#\Codigos e exercicios de aula de C#\obj\Debug\net8.0\Codigos e exercicios de aula de C#.AssemblyInfoInputs.cache
+C:\Users\joaop\Documents\Linguagens de programação\C#\Codigos e exercicios de aula de C#\Codigos e exercicios de aula de C#\obj\Debug\net8.0\Codigos e exercicios de aula de C#.AssemblyInfo.cs
+C:\Users\joaop\Documents\Linguagens de programação\C#\Codigos e exercicios de aula de C#\Codigos e exercicios de aula de C#\obj\Debug\net8.0\Codigos e exercicios de aula de C#.csproj.CoreCompileInputs.cache
+C:\Users\joaop\Documents\Linguagens de programação\C#\Codigos e exercicios de aula de C#\Codigos e exercicios de aula de C#\obj\Debug\net8.0\Codigos e exercicios de aula de C#.dll
+C:\Users\joaop\Documents\Linguagens de programação\C#\Codigos e exercicios de aula de C#\Codigos e exercicios de aula de C#\obj\Debug\net8.0\refint\Codigos e exercicios de aula de C#.dll
+C:\Users\joaop\Documents\Linguagens de programação\C#\Codigos e exercicios de aula de C#\Codigos e exercicios de aula de C#\obj\Debug\net8.0\Codigos e exercicios de aula de C#.pdb
+C:\Users\joaop\Documents\Linguagens de programação\C#\Codigos e exercicios de aula de C#\Codigos e exercicios de aula de C#\obj\Debug\net8.0\Codigos e exercicios de aula de C#.genruntimeconfig.cache
+C:\Users\joaop\Documents\Linguagens de programação\C#\Codigos e exercicios de aula de C#\Codigos e exercicios de aula de C#\obj\Debug\net8.0\ref\Codigos e exercicios de aula de C#.dll
